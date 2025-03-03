@@ -1,0 +1,7 @@
+Flask
+boto3
+opencv-python
+numpy
+Pillow
+python-dotenv
+uuid
